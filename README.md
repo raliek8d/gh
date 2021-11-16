@@ -4,7 +4,7 @@ This README would normally document whatever steps are necessary to get your app
 
 ### What is this repository for? ###
 
-* Quick summaryzzzzzzzzzzzzzzzzz
+* Quick summaryzzzzzzzzzzzzzzzzzz
 * Version
 * [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
